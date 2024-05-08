@@ -1,4 +1,4 @@
-# STUDY OF BASIC GATES
+# EXPERIMENT NO:1 STUDY OF BASIC GATES
 ## AIM:
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
